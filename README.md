@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husseynSmokeR 
+- 👋 Hi, I’m Hussein Issa
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Internet Computer Protocal (ICP)
 - 💞️ I’m looking to collaborate on building and deploying ICP projects
