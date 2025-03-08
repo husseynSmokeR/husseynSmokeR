@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussein Issa
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Internet Computer Protocal (ICP)
+- 🌱 I’m currently building and managing projects on Internet Computer Protocal (ICP)
 - 💞️ I’m looking to collaborate on building and deploying ICP projects
 - 📫 How to reach me LinkedIn [https://www.linkedin.com/in/hussein-issa-96226920b/]
 - 😄 Pronouns: He
